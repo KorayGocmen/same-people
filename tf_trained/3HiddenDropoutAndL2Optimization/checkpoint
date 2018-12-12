@@ -1,0 +1,2 @@
+model_checkpoint_path: "3HiddenDropoutAndL2Optimization"
+all_model_checkpoint_paths: "3HiddenDropoutAndL2Optimization"
